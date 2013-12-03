@@ -9,5 +9,10 @@ class PyBackup(object):
         self.username = username
         self.password = password
         
+        
+        
+if __name__ == '__main__':
+    
+        
     
     
